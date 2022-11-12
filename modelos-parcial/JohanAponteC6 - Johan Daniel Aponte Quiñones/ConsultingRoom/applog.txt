@@ -1,0 +1,415 @@
+INFO    2022-11-03 18:45:22,505 [main] Main  - Dentist: { 
+	id=5, 
+	dni='1013222555', 
+	name='Kevin', 
+	lastName='Forero', 
+	mail='dentista2@gmail.com', 
+	phone='3222734444', 
+	role=ADMIN
+}
+INFO    2022-11-03 18:45:22,547 [main] Main  - Dentist: { 
+	id=4, 
+	dni='1013111444', 
+	name='Daniel', 
+	lastName='Quiñones', 
+	mail='dentista1@gmail.com', 
+	phone='3222733333', 
+	role=ADMIN
+}
+INFO    2022-11-03 18:45:22,547 [main] Main  - Patient: { 
+	id=1, 
+	dni='1013666999', 
+	name='Johan', 
+	lastName='Aponte', 
+	mail='usuario1@gmail.com', 
+	phone='3222730000', 
+	role=USER
+}
+INFO    2022-11-03 18:45:22,547 [main] Main  - Patient: { 
+	id=2, 
+	dni='1013777101', 
+	name='Jorg', 
+	lastName='Gómez', 
+	mail='usuario2@gmail.com', 
+	phone='3222731111', 
+	role=USER
+}
+INFO    2022-11-03 18:45:22,547 [main] Main  - Dentist: { 
+	id=6, 
+	dni='1013000333', 
+	name='Manuel', 
+	lastName='Cabezas', 
+	mail='dentista3@gmail.com', 
+	phone='3222735555', 
+	role=ADMIN
+}
+INFO    2022-11-03 18:45:22,547 [main] Main  - Patient: { 
+	id=3, 
+	dni='1013555888', 
+	name='John', 
+	lastName='Aponte', 
+	mail='usuario3@gmail.com', 
+	phone='3222732222', 
+	role=USER
+}
+INFO    2022-11-03 18:45:22,783 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 18:45:22,787 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 18:45:22,788 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 18:45:22,797 [main] Main  - Info gotten from Data Base:
+[[Patient: { 
+	id=1, 
+	dni='1013666999', 
+	name='Johan', 
+	lastName='Aponte', 
+	mail='usuario1@gmail.com', 
+	phone='3222730000', 
+	role=USER
+}, Patient: { 
+	id=2, 
+	dni='1013777101', 
+	name='Jorg', 
+	lastName='Gómez', 
+	mail='usuario2@gmail.com', 
+	phone='3222731111', 
+	role=USER
+}, Patient: { 
+	id=3, 
+	dni='1013555888', 
+	name='John', 
+	lastName='Aponte', 
+	mail='usuario3@gmail.com', 
+	phone='3222732222', 
+	role=USER
+}]]
+INFO    2022-11-03 18:55:12,850 [main] Main  - Dentist: { 
+	id=5, 
+	dni='1013222555', 
+	name='Kevin', 
+	lastName='Forero', 
+	mail='dentista2@gmail.com', 
+	phone='3222734444', 
+	role=ADMIN
+}
+INFO    2022-11-03 18:55:12,906 [main] Main  - Dentist: { 
+	id=4, 
+	dni='1013111444', 
+	name='Daniel', 
+	lastName='Quiñones', 
+	mail='dentista1@gmail.com', 
+	phone='3222733333', 
+	role=ADMIN
+}
+INFO    2022-11-03 18:55:12,906 [main] Main  - Patient: { 
+	id=1, 
+	dni='1013666999', 
+	name='Lu', 
+	lastName='Aponte', 
+	mail='usuario1@gmail.com', 
+	phone='3222730000', 
+	role=USER
+}
+INFO    2022-11-03 18:55:12,906 [main] Main  - Patient: { 
+	id=2, 
+	dni='1013777101', 
+	name='Jorg', 
+	lastName='Gómez', 
+	mail='usuario2@gmail.com', 
+	phone='3222731111', 
+	role=USER
+}
+INFO    2022-11-03 18:55:12,906 [main] Main  - Dentist: { 
+	id=6, 
+	dni='1013000333', 
+	name='Manuel', 
+	lastName='Cabezas', 
+	mail='dentista3@gmail.com', 
+	phone='3222735555', 
+	role=ADMIN
+}
+INFO    2022-11-03 18:55:12,907 [main] Main  - Patient: { 
+	id=3, 
+	dni='1013555888', 
+	name='John', 
+	lastName='Aponte', 
+	mail='usuario3@gmail.com', 
+	phone='3222732222', 
+	role=USER
+}
+INFO    2022-11-03 18:55:13,140 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 18:55:13,145 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 18:55:13,148 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 18:55:13,157 [main] Main  - Info gotten from Data Base:
+[[Patient: { 
+	id=1, 
+	dni='1013666999', 
+	name='Lu', 
+	lastName='Aponte', 
+	mail='usuario1@gmail.com', 
+	phone='3222730000', 
+	role=USER
+}, Patient: { 
+	id=2, 
+	dni='1013777101', 
+	name='Jorg', 
+	lastName='Gómez', 
+	mail='usuario2@gmail.com', 
+	phone='3222731111', 
+	role=USER
+}, Patient: { 
+	id=3, 
+	dni='1013555888', 
+	name='John', 
+	lastName='Aponte', 
+	mail='usuario3@gmail.com', 
+	phone='3222732222', 
+	role=USER
+}]]
+INFO    2022-11-03 18:55:36,852 [main] Main  - Dentist: { 
+	id=5, 
+	dni='1013222555', 
+	name='Kevin', 
+	lastName='Forero', 
+	mail='dentista2@gmail.com', 
+	phone='3222734444', 
+	role=ADMIN
+}
+INFO    2022-11-03 18:55:36,904 [main] Main  - Dentist: { 
+	id=4, 
+	dni='1013111444', 
+	name='Daniel', 
+	lastName='Quiñones', 
+	mail='dentista1@gmail.com', 
+	phone='3222733333', 
+	role=ADMIN
+}
+INFO    2022-11-03 18:55:36,904 [main] Main  - Patient: { 
+	id=1, 
+	dni='1013666999', 
+	name='Lu2', 
+	lastName='Aponte', 
+	mail='usuario1@gmail.com', 
+	phone='3222730000', 
+	role=USER
+}
+INFO    2022-11-03 18:55:36,904 [main] Main  - Patient: { 
+	id=2, 
+	dni='1013777101', 
+	name='Jorg', 
+	lastName='Gómez', 
+	mail='usuario2@gmail.com', 
+	phone='3222731111', 
+	role=USER
+}
+INFO    2022-11-03 18:55:36,904 [main] Main  - Dentist: { 
+	id=6, 
+	dni='1013000333', 
+	name='Manuel', 
+	lastName='Cabezas', 
+	mail='dentista3@gmail.com', 
+	phone='3222735555', 
+	role=ADMIN
+}
+INFO    2022-11-03 18:55:36,905 [main] Main  - Patient: { 
+	id=3, 
+	dni='1013555888', 
+	name='John', 
+	lastName='Aponte', 
+	mail='usuario3@gmail.com', 
+	phone='3222732222', 
+	role=USER
+}
+INFO    2022-11-03 18:55:37,138 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 18:55:37,144 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 18:55:37,148 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 18:55:37,161 [main] Main  - Info gotten from Data Base:
+[[Patient: { 
+	id=1, 
+	dni='1013666999', 
+	name='Lu2', 
+	lastName='Aponte', 
+	mail='usuario1@gmail.com', 
+	phone='3222730000', 
+	role=USER
+}, Patient: { 
+	id=2, 
+	dni='1013777101', 
+	name='Jorg', 
+	lastName='Gómez', 
+	mail='usuario2@gmail.com', 
+	phone='3222731111', 
+	role=USER
+}, Patient: { 
+	id=3, 
+	dni='1013555888', 
+	name='John', 
+	lastName='Aponte', 
+	mail='usuario3@gmail.com', 
+	phone='3222732222', 
+	role=USER
+}]]
+INFO    2022-11-03 19:03:21,517 [main] Main  - Dentist: { 
+	id=5, 
+	dni='1013222555', 
+	name='Kevin', 
+	lastName='Forero', 
+	mail='dentista2@gmail.com', 
+	phone='3222734444', 
+	role=ADMIN
+}
+INFO    2022-11-03 19:03:21,576 [main] Main  - Dentist: { 
+	id=4, 
+	dni='1013111444', 
+	name='Daniel', 
+	lastName='Quiñones', 
+	mail='dentista1@gmail.com', 
+	phone='3222733333', 
+	role=ADMIN
+}
+INFO    2022-11-03 19:03:21,576 [main] Main  - Patient: { 
+	id=1, 
+	dni='1013666999', 
+	name='Lu2', 
+	lastName='Aponte', 
+	mail='usuario1@gmail.com', 
+	phone='3222730000', 
+	role=USER
+}
+INFO    2022-11-03 19:03:21,576 [main] Main  - Patient: { 
+	id=2, 
+	dni='1013777101', 
+	name='Jorg', 
+	lastName='Gómez', 
+	mail='usuario2@gmail.com', 
+	phone='3222731111', 
+	role=USER
+}
+INFO    2022-11-03 19:03:21,576 [main] Main  - Dentist: { 
+	id=6, 
+	dni='1013000333', 
+	name='Manuel', 
+	lastName='Cabezas', 
+	mail='dentista3@gmail.com', 
+	phone='3222735555', 
+	role=ADMIN
+}
+INFO    2022-11-03 19:03:21,577 [main] Main  - Patient: { 
+	id=3, 
+	dni='1013555888', 
+	name='John', 
+	lastName='Aponte', 
+	mail='usuario3@gmail.com', 
+	phone='3222732222', 
+	role=USER
+}
+INFO    2022-11-03 19:03:21,863 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 19:03:21,869 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 19:03:21,871 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 19:03:21,882 [main] Main  - Info gotten from Data Base:
+[[Patient: { 
+	id=1, 
+	dni='1013666999', 
+	name='Lu2', 
+	lastName='Aponte', 
+	mail='usuario1@gmail.com', 
+	phone='3222730000', 
+	role=USER
+}, Patient: { 
+	id=2, 
+	dni='1013777101', 
+	name='Jorg', 
+	lastName='Gómez', 
+	mail='usuario2@gmail.com', 
+	phone='3222731111', 
+	role=USER
+}, Patient: { 
+	id=3, 
+	dni='1013555888', 
+	name='John', 
+	lastName='Aponte', 
+	mail='usuario3@gmail.com', 
+	phone='3222732222', 
+	role=USER
+}]]
+INFO    2022-11-03 19:10:49,165 [main] Main  - Dentist: { 
+	id=5, 
+	dni='1013222555', 
+	name='Kevin', 
+	lastName='Forero', 
+	mail='dentista2@gmail.com', 
+	phone='3222734444', 
+	role=ADMIN
+}
+INFO    2022-11-03 19:10:49,222 [main] Main  - Dentist: { 
+	id=4, 
+	dni='1013111444', 
+	name='Daniel', 
+	lastName='Quiñones', 
+	mail='dentista1@gmail.com', 
+	phone='3222733333', 
+	role=ADMIN
+}
+INFO    2022-11-03 19:10:49,222 [main] Main  - Patient: { 
+	id=1, 
+	dni='1013666999', 
+	name='Filomeno', 
+	lastName='Aponte', 
+	mail='usuario1@gmail.com', 
+	phone='3222730000', 
+	role=USER
+}
+INFO    2022-11-03 19:10:49,223 [main] Main  - Patient: { 
+	id=2, 
+	dni='1013777101', 
+	name='Jorg', 
+	lastName='Gómez', 
+	mail='usuario2@gmail.com', 
+	phone='3222731111', 
+	role=USER
+}
+INFO    2022-11-03 19:10:49,223 [main] Main  - Dentist: { 
+	id=6, 
+	dni='1013000333', 
+	name='Manuel', 
+	lastName='Cabezas', 
+	mail='dentista3@gmail.com', 
+	phone='3222735555', 
+	role=ADMIN
+}
+INFO    2022-11-03 19:10:49,223 [main] Main  - Patient: { 
+	id=3, 
+	dni='1013555888', 
+	name='John', 
+	lastName='Aponte', 
+	mail='usuario3@gmail.com', 
+	phone='3222732222', 
+	role=USER
+}
+INFO    2022-11-03 19:10:49,462 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 19:10:49,467 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 19:10:49,468 [main] com.dh.consultingroom.dao.impl.DentistDaoH2Impl  - Saving Dentist
+INFO    2022-11-03 19:10:49,477 [main] Main  - Info gotten from Data Base:
+[[Patient: { 
+	id=1, 
+	dni='1013666999', 
+	name='Filomeno', 
+	lastName='Aponte', 
+	mail='usuario1@gmail.com', 
+	phone='3222730000', 
+	role=USER
+}, Patient: { 
+	id=2, 
+	dni='1013777101', 
+	name='Jorg', 
+	lastName='Gómez', 
+	mail='usuario2@gmail.com', 
+	phone='3222731111', 
+	role=USER
+}, Patient: { 
+	id=3, 
+	dni='1013555888', 
+	name='John', 
+	lastName='Aponte', 
+	mail='usuario3@gmail.com', 
+	phone='3222732222', 
+	role=USER
+}]]

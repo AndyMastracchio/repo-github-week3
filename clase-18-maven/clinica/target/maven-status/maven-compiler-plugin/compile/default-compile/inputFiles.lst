@@ -1,0 +1,12 @@
+/home/tpereyra/Documents/clinica/src/main/java/service/DomicilioService.java
+/home/tpereyra/Documents/clinica/src/main/java/dao/configuracion/ConfiguracionJDBC.java
+/home/tpereyra/Documents/clinica/src/main/java/model/Odontologo.java
+/home/tpereyra/Documents/clinica/src/main/java/model/Domicilio.java
+/home/tpereyra/Documents/clinica/src/main/java/model/Paciente.java
+/home/tpereyra/Documents/clinica/src/main/java/dao/IDao.java
+/home/tpereyra/Documents/clinica/src/main/java/dao/impl/DomicilioDaoH2.java
+/home/tpereyra/Documents/clinica/src/main/java/service/PacienteService.java
+/home/tpereyra/Documents/clinica/src/main/java/util/Util.java
+/home/tpereyra/Documents/clinica/src/main/java/service/OdontologoService.java
+/home/tpereyra/Documents/clinica/src/main/java/dao/impl/PacienteDaoH2.java
+/home/tpereyra/Documents/clinica/src/main/java/dao/impl/OdontologoDaoH2.java
